@@ -2,6 +2,11 @@
 
 
 
+## Map Tracker
+Player Map: is supposed to track the movement of the player on a 4x4 square map while keeping them from going out of bounds.
+
+## Branching Narrative
+A Dogs Life: is a short silly story about a dog and it's actions throughout the day, it was the first project involving multiple choices that affected the flow of the story.
 
 ## Adventure Game
 
